@@ -1,2 +1,2 @@
 # ExchangeConnect-Java
-Java based test client
+Java based test client with REST and WebSocket support
